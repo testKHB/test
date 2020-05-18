@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("æ»≥Á?");
 		System.out.println("«œ¿Ã!");
+		System.out.println("xxxxxxx");
 	}
 
 }
